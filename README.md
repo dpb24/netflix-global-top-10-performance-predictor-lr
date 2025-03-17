@@ -23,9 +23,8 @@ To find out, I developed a **multiple linear regression model** to forecast the 
 
 
 ### 🔗 Project Resources:
-📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor/blob/main/netflix-global-top-10-performance-predictor.ipynb) <br>
-📂 Dataset: [Netflix Global Top 10 dataset](https://www.kaggle.com/datasets/davidpbriggs/most-popular-netflix-shows) <br>
-📊 Project also available on: [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor) <br>
+**📖 Jupyter Notebook:** [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor/blob/main/netflix-global-top-10-performance-predictor.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor)  <br>
+**📂 Dataset:** [Netflix Global Top 10 weekly data](https://www.kaggle.com/datasets/davidpbriggs/most-popular-netflix-shows) <br>
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
