@@ -3,16 +3,13 @@
 ### 🎬 Predicting Netflix Title Performance 📊 <br>
 
 
-Can we predict how many hours a Netflix title will be viewed based on its first two weeks in the Global Top 10? What trends influence what we watch? <br>
-
-
-To find out, I developed a **multiple linear regression model** to forecast the success of Netflix titles in the Global Top 10. <br>
+Can we predict how many hours a Netflix title will be viewed based on its first two weeks in the Global Top 10? What trends influence what we watch? To find out, I developed a multiple linear regression model to forecast the success of Netflix titles in the Global Top 10. <br>
 
 
 ### 💡Key results:
  - **77.5%** of the variation in total hours viewed is explained by the model
  - **All predictors** were statistically significant, meaning they have a measurable impact on total hours viewed
- - **Category matters:** 📺 **TV shows** tend to perform better than 🍿 **Films**
+ - **Category matters:** 📺 TV shows tend to perform better than 🍿 Films
 
 
 ### 📊 Statistical Approach:
