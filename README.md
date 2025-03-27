@@ -7,7 +7,7 @@ Can we predict how many hours a Netflix title will be viewed based on its first 
 
 
 ### 💡Key results:
- - **77.5%** of the variation in total hours viewed is explained by the model
+ - **77.0%** of the variation in total hours viewed is explained by the model
  - **All predictors** were statistically significant, meaning they have a measurable impact on total hours viewed
  - **Category matters:** 📺 TV shows tend to perform better than 🍿 Films
 
