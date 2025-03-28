@@ -1,6 +1,6 @@
 # Netflix Global Top 10 Performance Predictor (Python)
 
-### 🎬 Predicting Netflix Title Performance 📊 <br>
+### 🎬 Predicting Netflix Title Performance with linear regression 📊 <br>
 
 
 Can we predict how many hours a Netflix title will be viewed based on its first two weeks in the Global Top 10? What trends influence what we watch? To find out, I developed a multiple linear regression model to forecast the success of Netflix titles in the Global Top 10. <br>
@@ -20,7 +20,7 @@ Can we predict how many hours a Netflix title will be viewed based on its first 
 
 
 ### 🔗 Project Resources:
-📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor/blob/main/netflix-global-top-10-performance-predictor.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor)  <br>
+📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/netflix-global-top-10-performance-predictor-lr/blob/main/netflix-global-top-10-performance-predictor-lr.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-global-top-10-performance-predictor-lr)  <br>
 📂 Dataset: [Netflix Global Top 10 weekly data](https://www.kaggle.com/datasets/davidpbriggs/most-popular-netflix-shows) <br>
 
 
