@@ -26,5 +26,6 @@ Can we predict how many hours a Netflix title will be viewed based on its first 
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="netflix_global_top_10_weekly.png" width="800">
-    <img src="netflix_global_top_10_model_results.png" width="800">
+    <img src="lr_model_performance1.png" width="800">
+    <img src="lr_model_performance2.png" width="800">
 </div>
